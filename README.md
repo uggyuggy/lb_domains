@@ -16,7 +16,8 @@ $
 $ wc -l lb.txt 
 2659 lb.txt
 $
-$ # .lb domain names extracted from nameservers on 20Jun2024 15:48 UTC
+$ head lb.txt
+# .lb domain names extracted from nameservers on 20Jun2024 15:48 UTC
 3mplast.com.lb.
 3w.com.lb.
 4g.com.lb.
