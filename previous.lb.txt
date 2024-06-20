@@ -1,3 +1,4 @@
+# .lb domain names extracted from nameservers on 20Jun2024 15:19 UTC
 access.edu.lb.
 acs.edu.lb.
 adduhahighschool.edu.lb.
