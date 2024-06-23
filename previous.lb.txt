@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Jun2024 02:48 UTC
+# .lb domain names extracted from nameservers on 22Jun2024 02:26 UTC
 3mplast.com.lb.
 3w.com.lb.
 4g.com.lb.
@@ -114,6 +114,7 @@ aliwaa.com.lb.
 alkawthar.edu.lb.
 alkazemschool.edu.lb.
 alkhanadeq.org.lb.
+allanticovinaio.com.lb.
 allcj.edu.lb.
 allcs.edu.lb.
 allianz-sf.com.lb.
