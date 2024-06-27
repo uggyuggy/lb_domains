@@ -1,5 +1,6 @@
-# .lb domain names extracted from nameservers on 25Jun2024 02:25 UTC
+# .lb domain names extracted from nameservers on 26Jun2024 02:26 UTC
 3mplast.com.lb.
+3ppharma.com.lb.
 3w.com.lb.
 4g.com.lb.
 4media.com.lb.
@@ -1771,6 +1772,7 @@ myoffice.com.lb.
 myofitness.com.lb.
 myrewardsclub.com.lb.
 myservier.com.lb.
+mytinyplace.com.lb.
 nabatieh.gov.lb.
 nabay.gov.lb.
 nacb.com.lb.
@@ -2446,6 +2448,7 @@ thisisbeirut.com.lb.
 tibafoods.com.lb.
 ticketforchange.com.lb.
 tinol.com.lb.
+tinyplace.com.lb.
 tis.com.lb.
 titan.com.lb.
 titans.com.lb.
