@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 26Jun2024 02:26 UTC
+# .lb domain names extracted from nameservers on 27Jun2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -429,6 +429,10 @@ bta.com.lb.
 btt.com.lb.
 budget.com.lb.
 buh.gov.lb.
+build-a-bear.com.lb.
+build-a-bearworkshop.com.lb.
+buildabear.com.lb.
+buildabearworkshop.com.lb.
 bungepro.com.lb.
 burgerking.com.lb.
 burn.com.lb.
