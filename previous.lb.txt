@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29Jun2024 02:26 UTC
+# .lb domain names extracted from nameservers on 30Jun2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1854,6 +1854,7 @@ nna-leb.gov.lb.
 nokia.com.lb.
 nokto-beds.com.lb.
 noktobeds.com.lb.
+norka.com.lb.
 northfoodcompany.com.lb.
 nostalgie.com.lb.
 noula.com.lb.
