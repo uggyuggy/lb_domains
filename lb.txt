@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 01Jul2024 02:25 UTC
+# .lb domain names extracted from nameservers on 03Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -462,7 +462,6 @@ camzyos.com.lb.
 camzyoshcp.com.lb.
 cannabis.com.lb.
 capellisport.com.lb.
-car.com.lb.
 care4health.com.lb.
 careerdesign.com.lb.
 caretek.com.lb.
@@ -838,6 +837,7 @@ elfbar.com.lb.
 elfliq.com.lb.
 eliesaab.com.lb.
 elitecarers.com.lb.
+elitehomenurse.com.lb.
 elitehospitalitygroup.com.lb.
 elle.com.lb.
 elma.com.lb.
@@ -1304,7 +1304,6 @@ jmn.com.lb.
 jmrab.edu.lb.
 jobs.com.lb.
 johnsoncontrols.com.lb.
-joker.com.lb.
 josephabdallah.com.lb.
 josephtorbey.com.lb.
 joueclub.com.lb.
@@ -1354,7 +1353,6 @@ klevr.com.lb.
 kmc.com.lb.
 kmco.com.lb.
 komits.com.lb.
-koncect.com.lb.
 konect.com.lb.
 kore.com.lb.
 kouyoumji.com.lb.
@@ -1530,7 +1528,6 @@ luisco.com.lb.
 lulu.com.lb.
 lurpak.com.lb.
 luvadaxistat.com.lb.
-luxury.com.lb.
 lvl.com.lb.
 lwah.org.lb.
 lwis-ais.edu.lb.
@@ -2005,6 +2002,7 @@ powergroup.com.lb.
 powermix.com.lb.
 powertech.com.lb.
 ppa.gov.lb.
+premiertalent.com.lb.
 presidency.gov.lb.
 pressmedia.com.lb.
 prestige.com.lb.
@@ -2571,7 +2569,6 @@ vieprivee.com.lb.
 villeroy-boch.com.lb.
 villeroyandboch.com.lb.
 villeroyboch.com.lb.
-vip.com.lb.
 virginmegastore.com.lb.
 virginmobile.com.lb.
 virginradio.com.lb.
