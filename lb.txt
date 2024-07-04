@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 03Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 04Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -2400,7 +2400,6 @@ teachachild.com.lb.
 teachachild.net.lb.
 teachachild.org.lb.
 teavana.com.lb.
-tech.com.lb.
 technicalgroup.com.lb.
 technoimport.com.lb.
 technoline.com.lb.
