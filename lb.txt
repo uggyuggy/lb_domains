@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 04Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 05Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1554,6 +1554,7 @@ madigroup.com.lb.
 maf.com.lb.
 magazine.com.lb.
 maggi.com.lb.
+magicmist.com.lb.
 magnoliabakery.com.lb.
 maid.com.lb.
 maids.com.lb.
@@ -2089,6 +2090,7 @@ redbull.com.lb.
 redcross.edu.lb.
 redcross.org.lb.
 redpro.com.lb.
+refresh.com.lb.
 regie.com.lb.
 regiedestabacs.com.lb.
 register.com.lb.
