@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 08Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 09Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1235,7 +1235,6 @@ intranet.com.lb.
 intuition.com.lb.
 investbank.com.lb.
 investinlebanon.gov.lb.
-invigo.com.lb.
 invisalign.com.lb.
 ioc.edu.lb.
 iof.gov.lb.
@@ -1295,7 +1294,6 @@ javafire.com.lb.
 jbail-byblos.gov.lb.
 jbail-union.gov.lb.
 jellybelly.com.lb.
-jgrove.com.lb.
 jha.com.lb.
 jihadbinaa.org.lb.
 jinan.edu.lb.
@@ -1353,7 +1351,6 @@ klevr.com.lb.
 kmc.com.lb.
 kmco.com.lb.
 komits.com.lb.
-konect.com.lb.
 kore.com.lb.
 kouyoumji.com.lb.
 kpmg.com.lb.
@@ -2511,7 +2508,6 @@ ufa.com.lb.
 ufeed.org.lb.
 ul.edu.lb.
 ulf.edu.lb.
-ulfmetn.edu.lb.
 uls.edu.lb.
 umc.com.lb.
 umcrh.com.lb.
