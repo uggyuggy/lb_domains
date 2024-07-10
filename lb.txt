@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 09Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 10Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -971,6 +971,7 @@ freshpharma.com.lb.
 freshtelecom.com.lb.
 freshtohome.com.lb.
 freytelecom.com.lb.
+fridays.com.lb.
 frontline.com.lb.
 fuchs.com.lb.
 funkyrepublic.com.lb.
@@ -1921,6 +1922,7 @@ oszs.edu.lb.
 othua.com.lb.
 otis.com.lb.
 otv.com.lb.
+oxshare.com.lb.
 oxycom.com.lb.
 oysho.com.lb.
 pac.com.lb.
@@ -2426,6 +2428,7 @@ teska.com.lb.
 tetracom.com.lb.
 tetrapak.com.lb.
 tgf.com.lb.
+tgifridays.com.lb.
 the-lfa.com.lb.
 thebodyshop.com.lb.
 thecaskandbarrel.com.lb.
