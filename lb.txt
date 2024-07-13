@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 12Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 13Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -13,6 +13,10 @@ aadv.com.lb.
 abba.com.lb.
 abc.com.lb.
 abela-freres.com.lb.
+abercrombie.com.lb.
+abercrombieandfitch.com.lb.
+abercrombiefitch.com.lb.
+abercrombiekids.com.lb.
 abg.com.lb.
 abi.org.lb.
 abl.org.lb.
@@ -1029,6 +1033,7 @@ ghte.com.lb.
 gifco.com.lb.
 gig.com.lb.
 gigiclozeau.com.lb.
+gillyhicks.com.lb.
 gis.edu.lb.
 glama.com.lb.
 glasspack.com.lb.
@@ -1122,6 +1127,7 @@ hms.com.lb.
 holcim.com.lb.
 holdal.com.lb.
 holidayhome.com.lb.
+hollisterco.com.lb.
 hollywoodmagic.com.lb.
 hollywoodstyle.com.lb.
 home.com.lb.
@@ -2644,6 +2650,7 @@ ygandco.com.lb.
 ymca-leb.org.lb.
 yoox.com.lb.
 yorvipath.com.lb.
+yourpersonalbest.com.lb.
 youtube.com.lb.
 yslbeauty.com.lb.
 yves-rocher.com.lb.

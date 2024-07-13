@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 11Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 12Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1590,6 +1590,7 @@ maristesjbail.edu.lb.
 maronite-league.org.lb.
 martiderm.com.lb.
 martiniprofessional.com.lb.
+masa.com.lb.
 masco.com.lb.
 masri.com.lb.
 mass.edu.lb.
