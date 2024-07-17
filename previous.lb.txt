@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 14Jul2024 02:30 UTC
+# .lb domain names extracted from nameservers on 16Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -225,6 +225,7 @@ arlafood.com.lb.
 arlafoods.com.lb.
 arlapro.com.lb.
 army.gov.lb.
+arope.com.lb.
 artmetal.com.lb.
 artpromotion.com.lb.
 as.com.lb.
@@ -1877,7 +1878,6 @@ nsc.com.lb.
 ntcc.com.lb.
 nwn.com.lb.
 nyda.com.lb.
-obd.com.lb.
 ocean.com.lb.
 oceanspray.com.lb.
 ocftc.gov.lb.
