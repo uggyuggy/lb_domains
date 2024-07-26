@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 24Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 25Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1180,7 +1180,6 @@ idm.net.lb.
 idrel.com.lb.
 ids.com.lb.
 iea.org.lb.
-ifbcsyndicate.org.lb.
 iffco.com.lb.
 ig.com.lb.
 igg.com.lb.
@@ -2420,6 +2419,7 @@ teknowgroup.com.lb.
 tel.com.lb.
 teleliban.com.lb.
 teleprojects.com.lb.
+teletaxi.com.lb.
 teletrade.com.lb.
 telnet.com.lb.
 telnet.net.lb.

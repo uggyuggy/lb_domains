@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 25Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 26Jul2024 02:26 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1051,6 +1051,7 @@ goldenhome.com.lb.
 goodies.com.lb.
 goodwillschool.edu.lb.
 google.com.lb.
+gop.org.lb.
 gourmetbyroots.com.lb.
 gourmetbyroots.net.lb.
 gov.lb.
@@ -1323,6 +1324,7 @@ juicieko.com.lb.
 justice.gov.lb.
 justit.com.lb.
 justproperty.com.lb.
+juul.com.lb.
 jwf.org.lb.
 jws.edu.lb.
 kaakour.gov.lb.
