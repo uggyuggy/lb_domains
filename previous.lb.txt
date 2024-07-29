@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 27Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 28Jul2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -200,7 +200,6 @@ apotres.edu.lb.
 aquarius.com.lb.
 arabbank.com.lb.
 arabia-ins.com.lb.
-arabiaposts.com.lb.
 arabou-lb.edu.lb.
 arabre.com.lb.
 arabweek.com.lb.
