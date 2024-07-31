@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 30Jul2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -197,6 +197,7 @@ apic.org.lb.
 apj.org.lb.
 apostrophe.com.lb.
 apotres.edu.lb.
+appliednutrition.com.lb.
 aquarius.com.lb.
 arabbank.com.lb.
 arabia-ins.com.lb.
@@ -641,7 +642,6 @@ comtact.com.lb.
 concord.com.lb.
 concordtravel.com.lb.
 confirm.com.lb.
-conforama.com.lb.
 congfcl.org.lb.
 connect.net.lb.
 connoisseur.com.lb.
