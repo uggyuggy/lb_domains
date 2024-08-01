@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 31Jul2024 02:26 UTC
+# .lb domain names extracted from nameservers on 01Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -472,6 +472,7 @@ cannabis.com.lb.
 capellisport.com.lb.
 care4health.com.lb.
 careerdesign.com.lb.
+caremed.com.lb.
 caretek.com.lb.
 cargo.com.lb.
 caritas.org.lb.
@@ -1306,6 +1307,7 @@ javafire.com.lb.
 jbail-byblos.gov.lb.
 jbail-union.gov.lb.
 jellybelly.com.lb.
+jgrove.com.lb.
 jha.com.lb.
 jihadbinaa.org.lb.
 jinan.edu.lb.
@@ -1364,6 +1366,7 @@ kite.com.lb.
 klevr.com.lb.
 kmc.com.lb.
 kmco.com.lb.
+knoops.com.lb.
 komits.com.lb.
 kore.com.lb.
 kouyoumji.com.lb.
