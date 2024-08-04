@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 01Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 02Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -284,6 +284,7 @@ ba.com.lb.
 baal.com.lb.
 baalbeck.org.lb.
 babygap.com.lb.
+babyone.com.lb.
 bac.edu.lb.
 badrco.com.lb.
 baholding.com.lb.
@@ -1007,6 +1008,8 @@ gargourmobility.com.lb.
 garnier.com.lb.
 gazzaoui.com.lb.
 gbes.edu.lb.
+gcharge.com.lb.
+gchargeevnetwork.com.lb.
 gcqc.com.lb.
 gda.gov.lb.
 gdcoops.gov.lb.
@@ -1090,6 +1093,8 @@ hadi.edu.lb.
 haigazian.edu.lb.
 hajjandumrah.gov.lb.
 hallab.com.lb.
+hallab1881cafe.com.lb.
+hallabcafe.com.lb.
 hammana.gov.lb.
 hampshireacademy.edu.lb.
 hariri3.edu.lb.
@@ -1582,6 +1587,7 @@ mak-hhhs.edu.lb.
 mak-secondary.edu.lb.
 makassed-saida.edu.lb.
 makassed.org.lb.
+makina.com.lb.
 makwood.com.lb.
 malaya.com.lb.
 malco.com.lb.
@@ -2210,6 +2216,7 @@ scsl.org.lb.
 sd.com.lb.
 seacargo.com.lb.
 sealine.com.lb.
+seaplane-logistics.com.lb.
 seatrade.com.lb.
 seatrans.com.lb.
 seattlesbestcoffee.com.lb.
