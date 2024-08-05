@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 02Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 04Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -358,6 +358,7 @@ beirutsouks.com.lb.
 beirutsummit.gov.lb.
 beirutvirtualoffice.com.lb.
 beitmery.gov.lb.
+bekaifoods.com.lb.
 bekaplast.com.lb.
 benchmark.com.lb.
 benta.com.lb.
@@ -1578,6 +1579,7 @@ magicmist.com.lb.
 magnoliabakery.com.lb.
 maid.com.lb.
 maids.com.lb.
+maisondada.com.lb.
 maisonsdumonde.com.lb.
 maje-paris.com.lb.
 maje.com.lb.
@@ -2590,6 +2592,7 @@ victoire.com.lb.
 victoriassecret.com.lb.
 victoriassecretbeauty.com.lb.
 vieprivee.com.lb.
+villadada.com.lb.
 villeroy-boch.com.lb.
 villeroyandboch.com.lb.
 villeroyboch.com.lb.
