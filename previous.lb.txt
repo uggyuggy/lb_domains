@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 06Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -197,6 +197,7 @@ apic.org.lb.
 apj.org.lb.
 apostrophe.com.lb.
 apotres.edu.lb.
+apple.com.lb.
 appliednutrition.com.lb.
 aquarius.com.lb.
 arabbank.com.lb.
@@ -2569,6 +2570,7 @@ usek.edu.lb.
 usf.edu.lb.
 usj.edu.lb.
 usl.com.lb.
+uspoloassn.com.lb.
 ut.edu.lb.
 uta.com.lb.
 uterque.com.lb.
