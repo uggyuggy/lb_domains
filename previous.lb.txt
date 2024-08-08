@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 06Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 07Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2180,6 +2180,7 @@ sagessesmj.edu.lb.
 sagessetech.edu.lb.
 sahelhospital.com.lb.
 saida.gov.lb.
+sainik.com.lb.
 saintcharleshospital.com.lb.
 sainte-famille.edu.lb.
 saints-coeurs.org.lb.
