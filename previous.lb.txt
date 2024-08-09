@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 07Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 08Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -359,6 +359,7 @@ beirutsouks.com.lb.
 beirutsummit.gov.lb.
 beirutvirtualoffice.com.lb.
 beitmery.gov.lb.
+bekai.com.lb.
 bekaifoods.com.lb.
 bekaplast.com.lb.
 benchmark.com.lb.
@@ -2186,7 +2187,6 @@ sainte-famille.edu.lb.
 saints-coeurs.org.lb.
 saka.com.lb.
 salamehgroup.com.lb.
-salamtakbiddini.com.lb.
 saltek.com.lb.
 samhagroup.com.lb.
 samoa.com.lb.
