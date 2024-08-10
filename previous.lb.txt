@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 08Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 09Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -347,6 +347,7 @@ bear.com.lb.
 beautyhome.com.lb.
 beauvoir.com.lb.
 becs.com.lb.
+beecure.com.lb.
 beirut.gov.lb.
 beirutairport.gov.lb.
 beirutcitycentre.com.lb.
