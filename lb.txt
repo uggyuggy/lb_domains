@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 13Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 14Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -943,6 +943,7 @@ fidelity.com.lb.
 fidem.com.lb.
 fidus.com.lb.
 fieldforce.com.lb.
+fifinedesign.com.lb.
 filtex.com.lb.
 finance.gov.lb.
 firialta.com.lb.
