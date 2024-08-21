@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 20Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 21Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -837,6 +837,7 @@ efidus.com.lb.
 efs.com.lb.
 egv.com.lb.
 eis.edu.lb.
+eiu.edu.lb.
 ejjeh.com.lb.
 el-beddawi.gov.lb.
 elbank.com.lb.
@@ -1457,6 +1458,7 @@ lebanonservicedoffice.com.lb.
 lebanonservicedoffices.com.lb.
 lebanonvirtualoffices.com.lb.
 lebarmy.gov.lb.
+lebazon.com.lb.
 lebtrade.gov.lb.
 lecico.com.lb.
 lecocon.com.lb.
@@ -2172,6 +2174,7 @@ saadco.com.lb.
 sab.com.lb.
 sabco.com.lb.
 sadco.com.lb.
+sae.com.lb.
 safroot.com.lb.
 sagessehs.edu.lb.
 sagessesec.edu.lb.

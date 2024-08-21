@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 19Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 20Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1760,6 +1760,7 @@ moufarrige.com.lb.
 moukhtara.gov.lb.
 mouroujkhatib.com.lb.
 moutahed.com.lb.
+moutfitters.com.lb.
 mouvementsocial.org.lb.
 mouwahidoundruze.gov.lb.
 mpg.com.lb.
