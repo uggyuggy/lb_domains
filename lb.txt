@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 23Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2233,6 +2233,7 @@ securatel.com.lb.
 secureparking.com.lb.
 securityengineering.com.lb.
 see.com.lb.
+seguro.com.lb.
 selectrucks.com.lb.
 sentinel.com.lb.
 sephora.com.lb.
