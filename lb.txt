@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 25Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 26Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -560,8 +560,6 @@ chicco.com.lb.
 childrensplace.com.lb.
 chip.com.lb.
 chipoutpost.com.lb.
-chisage.com.lb.
-chisagess.com.lb.
 chiyah.gov.lb.
 chn.com.lb.
 christroi.org.lb.
