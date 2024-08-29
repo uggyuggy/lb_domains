@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 27Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 28Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -179,6 +179,7 @@ amhabre.com.lb.
 amik.com.lb.
 amjad.edu.lb.
 amlieh.edu.lb.
+ampligame.com.lb.
 anf.com.lb.
 anhar.com.lb.
 anischbat.com.lb.
