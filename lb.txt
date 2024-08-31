@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 30Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 31Aug2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2173,6 +2173,7 @@ rymco.com.lb.
 sa.edu.lb.
 saadco.com.lb.
 sab.com.lb.
+sabaworld.com.lb.
 sabco.com.lb.
 sadco.com.lb.
 sae.com.lb.
@@ -2388,6 +2389,7 @@ studies.gov.lb.
 style.com.lb.
 suitehotel.com.lb.
 sultansteel.com.lb.
+sumc.com.lb.
 suncityresort.com.lb.
 supeco.com.lb.
 superdry.com.lb.
