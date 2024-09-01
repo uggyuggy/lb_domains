@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 31Aug2024 02:26 UTC
+# .lb domain names extracted from nameservers on 01Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -715,7 +715,6 @@ dar.com.lb.
 daralfatwa.gov.lb.
 darbmarcharbel.org.lb.
 darelfatwa.gov.lb.
-darennour.edu.lb.
 darulfatwa.gov.lb.
 data.gov.lb.
 databank.com.lb.
