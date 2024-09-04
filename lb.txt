@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 03Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 04Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1259,7 +1259,6 @@ invisalign.com.lb.
 ioc.edu.lb.
 iof.gov.lb.
 ipccs.com.lb.
-ipco.com.lb.
 ipec.com.lb.
 ipn.com.lb.
 ipnbeirut.com.lb.
