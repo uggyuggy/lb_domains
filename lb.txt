@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 06Sep2024 02:33 UTC
+# .lb domain names extracted from nameservers on 07Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1199,6 +1199,7 @@ igroup.com.lb.
 ihs.edu.lb.
 iiet.edu.lb.
 ikhaa.edu.lb.
+ikonhome.com.lb.
 ima.org.lb.
 imageads.com.lb.
 imagesystems.com.lb.
