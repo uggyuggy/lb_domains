@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 11Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 12Sep2024 02:33 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -18,7 +18,6 @@ abercrombie.com.lb.
 abercrombieandfitch.com.lb.
 abercrombiefitch.com.lb.
 abercrombiekids.com.lb.
-abg.com.lb.
 abi.org.lb.
 abl.org.lb.
 abohsali.com.lb.
@@ -1490,6 +1489,7 @@ libanloisirs.com.lb.
 libanpost.com.lb.
 libatech.net.lb.
 libel.com.lb.
+libnor.gov.lb.
 libonline.com.lb.
 librairieorientale.com.lb.
 licrashaya.edu.lb.
@@ -1892,7 +1892,6 @@ novo.com.lb.
 novonordisk.com.lb.
 npc.edu.lb.
 nptp.gov.lb.
-npulse.com.lb.
 nrj.com.lb.
 nsc.com.lb.
 ntcc.com.lb.
@@ -2023,6 +2022,7 @@ pmsmenu.com.lb.
 pmt.com.lb.
 pneumatico.com.lb.
 polyglot.edu.lb.
+polymark.com.lb.
 pomedia.com.lb.
 potterybarn.com.lb.
 potterybarnkids.com.lb.
@@ -2399,7 +2399,6 @@ surfaces.com.lb.
 swarovski.com.lb.
 sweatybetty.com.lb.
 sweetearth.com.lb.
-sweidsolar.com.lb.
 swi.org.lb.
 switch.net.lb.
 switchtelecom.net.lb.
