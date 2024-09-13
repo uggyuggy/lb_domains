@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 12Sep2024 02:33 UTC
+# .lb domain names extracted from nameservers on 13Sep2024 02:33 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -691,6 +691,7 @@ csgzalka.edu.lb.
 csja.edu.lb.
 csm.gov.lb.
 csmm.edu.lb.
+csp.edu.lb.
 cssrd.org.lb.
 cst.com.lb.
 ctctco.com.lb.
@@ -1188,6 +1189,7 @@ idea.com.lb.
 idm.net.lb.
 idrel.com.lb.
 ids.com.lb.
+idservice.com.lb.
 iea.org.lb.
 iffco.com.lb.
 ig.com.lb.
