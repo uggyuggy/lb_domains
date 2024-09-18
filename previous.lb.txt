@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 16Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 17Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1696,7 +1696,6 @@ metlifealico.com.lb.
 metrans.com.lb.
 metropolitansecurity.com.lb.
 meu.edu.lb.
-mfa.gov.lb.
 mfe.gov.lb.
 mfm.com.lb.
 mib.com.lb.
