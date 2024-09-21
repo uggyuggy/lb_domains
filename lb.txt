@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 20Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 21Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2362,6 +2362,7 @@ srhuh.org.lb.
 srs.edu.lb.
 sscc.edu.lb.
 ssjm.edu.lb.
+sst.com.lb.
 starbucks.com.lb.
 starflower.com.lb.
 stars-college.edu.lb.
