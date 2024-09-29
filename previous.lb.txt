@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 27Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 28Sep2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2024,7 +2024,6 @@ pmt.com.lb.
 pneumatico.com.lb.
 polyglot.edu.lb.
 polymark.com.lb.
-pomedia.com.lb.
 potterybarn.com.lb.
 potterybarnkids.com.lb.
 powercell.com.lb.
