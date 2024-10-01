@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 30Sep2024 02:26 UTC
+# .lb domain names extracted from nameservers on 01Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -423,7 +423,6 @@ borninteractive.com.lb.
 bosch.com.lb.
 bottegaveneta.com.lb.
 bourjhammoud.gov.lb.
-boutiquehotel.com.lb.
 bpi.com.lb.
 bplus.com.lb.
 bps.com.lb.
@@ -1191,6 +1190,7 @@ idrel.com.lb.
 ids.com.lb.
 idservice.com.lb.
 iea.org.lb.
+ifa.edu.lb.
 iffco.com.lb.
 ig.com.lb.
 igg.com.lb.
@@ -2139,7 +2139,6 @@ revival.com.lb.
 rewardsclub.com.lb.
 rfk.com.lb.
 rfs.edu.lb.
-rfxt.com.lb.
 rgh.com.lb.
 rhf.org.lb.
 rhhs.edu.lb.
