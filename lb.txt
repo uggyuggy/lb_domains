@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 03Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 04Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -498,7 +498,6 @@ cbd.com.lb.
 cbm.com.lb.
 cbs.com.lb.
 cc.gov.lb.
-ccc.com.lb.
 cccl.org.lb.
 ccf.com.lb.
 ccg.com.lb.
@@ -2578,7 +2577,6 @@ urbcomfayhaa.gov.lb.
 urda.org.lb.
 usal.edu.lb.
 usek.edu.lb.
-usf.edu.lb.
 usj.edu.lb.
 usl.com.lb.
 uspoloassn.com.lb.
