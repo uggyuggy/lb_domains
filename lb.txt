@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 04Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 05Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1946,7 +1946,6 @@ orthocare.com.lb.
 ortmtlb.org.lb.
 osavampator.com.lb.
 oshkosh.com.lb.
-oszs.edu.lb.
 othua.com.lb.
 otis.com.lb.
 otv.com.lb.
