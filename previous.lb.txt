@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 07Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -164,7 +164,6 @@ amadeus.com.lb.
 amalbaladi.org.lb.
 amana.com.lb.
 amanacapital.com.lb.
-amatoury.com.lb.
 amazon.com.lb.
 amc.edu.lb.
 amcham.org.lb.
@@ -2349,7 +2348,6 @@ spartan.com.lb.
 spazi.com.lb.
 spc.com.lb.
 specom.com.lb.
-spica.com.lb.
 spm.com.lb.
 sportstown.com.lb.
 springcommunity.com.lb.

@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 07Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 09Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -421,6 +421,7 @@ borninteractive.com.lb.
 bosch.com.lb.
 bottegaveneta.com.lb.
 bourjhammoud.gov.lb.
+boutiquehotel.com.lb.
 bpi.com.lb.
 bplus.com.lb.
 bps.com.lb.
@@ -1124,7 +1125,6 @@ hgt.com.lb.
 hhs2.edu.lb.
 hhumc.org.lb.
 hilti.com.lb.
-himastar.com.lb.
 hireme.com.lb.
 his.edu.lb.
 hispeed.net.lb.
@@ -1751,6 +1751,7 @@ moonlight.com.lb.
 moph.gov.lb.
 mopw.gov.lb.
 moqawama.org.lb.
+morbidelli.com.lb.
 moreco.com.lb.
 mores.com.lb.
 mot.gov.lb.
@@ -1924,7 +1925,6 @@ omnipharma.com.lb.
 omsar.gov.lb.
 omt.com.lb.
 once.com.lb.
-oneroyal.com.lb.
 oneworld.com.lb.
 oneworldip.com.lb.
 onit.com.lb.
@@ -2296,6 +2296,7 @@ slfi.org.lb.
 sliver.com.lb.
 sloop.com.lb.
 slwe.gov.lb.
+smart.com.lb.
 smartdsl.net.lb.
 smartech.com.lb.
 smc.com.lb.
@@ -2574,6 +2575,7 @@ urbcomfayhaa.gov.lb.
 urda.org.lb.
 usal.edu.lb.
 usek.edu.lb.
+usf.edu.lb.
 usj.edu.lb.
 usl.com.lb.
 uspoloassn.com.lb.
