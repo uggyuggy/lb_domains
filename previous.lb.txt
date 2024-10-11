@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 09Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 10Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1215,7 +1215,6 @@ impex.com.lb.
 implementers.com.lb.
 ims.com.lb.
 inboundhorizons.com.lb.
-incentivetravel.com.lb.
 inco.com.lb.
 incognito.com.lb.
 indigo.com.lb.
