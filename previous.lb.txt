@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 10Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 11Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1743,6 +1743,7 @@ monin.com.lb.
 monoprix.com.lb.
 monsifschool.edu.lb.
 montlasalle.edu.lb.
+monty.com.lb.
 montymobile.com.lb.
 montypay.com.lb.
 moonet.com.lb.
@@ -2284,7 +2285,6 @@ skullcandy.com.lb.
 skyloungeservices.com.lb.
 skynet.com.lb.
 skyteam.com.lb.
-skytech.com.lb.
 skytrofa.com.lb.
 skywell.com.lb.
 sla.com.lb.
@@ -2348,6 +2348,7 @@ spartan.com.lb.
 spazi.com.lb.
 spc.com.lb.
 specom.com.lb.
+spica.com.lb.
 spm.com.lb.
 sportstown.com.lb.
 springcommunity.com.lb.
