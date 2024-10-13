@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 12Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 13Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -157,7 +157,6 @@ alsafanews.com.lb.
 alstom.com.lb.
 altai.com.lb.
 altaleb.org.lb.
-altanmia.org.lb.
 alucon.com.lb.
 amac.com.lb.
 amadeus.com.lb.
@@ -479,7 +478,6 @@ caretek.com.lb.
 cargo.com.lb.
 caritas.org.lb.
 caritasmigrant.org.lb.
-carmate.com.lb.
 carmelsaintjoseph.edu.lb.
 caroll.com.lb.
 carpoint.com.lb.
@@ -2317,7 +2315,6 @@ softenergie.com.lb.
 softflow.com.lb.
 softmanagement.com.lb.
 softmind.com.lb.
-softwaredesign.com.lb.
 sohof.org.lb.
 soldejaneiro.com.lb.
 solea.com.lb.
@@ -2558,7 +2555,6 @@ unifarco.com.lb.
 unifert.com.lb.
 unileb.com.lb.
 unilec.com.lb.
-unilog.com.lb.
 unimarksal.com.lb.
 unimec.com.lb.
 unipharm.com.lb.
