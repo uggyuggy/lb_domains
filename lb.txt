@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 14Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 15Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1097,6 +1097,7 @@ hampshireacademy.edu.lb.
 hariri3.edu.lb.
 hariribahaa.edu.lb.
 hasbayamunicipality.gov.lb.
+hatco.com.lb.
 hateco.com.lb.
 haveityourway.com.lb.
 hawele.com.lb.
@@ -2315,6 +2316,7 @@ softenergie.com.lb.
 softflow.com.lb.
 softmanagement.com.lb.
 softmind.com.lb.
+softwaredesign.com.lb.
 sohof.org.lb.
 soldejaneiro.com.lb.
 solea.com.lb.
@@ -2555,6 +2557,7 @@ unifarco.com.lb.
 unifert.com.lb.
 unileb.com.lb.
 unilec.com.lb.
+unilog.com.lb.
 unimarksal.com.lb.
 unimec.com.lb.
 unipharm.com.lb.
@@ -2648,7 +2651,6 @@ wingsoflebanon.com.lb.
 wise.net.lb.
 woodpecker.com.lb.
 woosh.com.lb.
-wordpress.com.lb.
 worldfood.com.lb.
 worldofjoy.org.lb.
 wpf.org.lb.
