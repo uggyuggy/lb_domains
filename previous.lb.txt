@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 15Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 16Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -231,7 +231,6 @@ as.com.lb.
 asat.edu.lb.
 ascoma.com.lb.
 asg.edu.lb.
-asib.com.lb.
 asics.com.lb.
 asl.com.lb.
 asp.com.lb.
@@ -598,7 +597,6 @@ claudiepierlot.com.lb.
 cleantec.com.lb.
 clestore.com.lb.
 climatecontrol.com.lb.
-clinicare.com.lb.
 cliniquerizk.com.lb.
 cloud.com.lb.
 cloudgate.com.lb.
@@ -1156,6 +1154,7 @@ hotelierekafaat.edu.lb.
 houseofmusic.com.lb.
 hrc-lebanon.gov.lb.
 hrc.com.lb.
+hrpro.com.lb.
 hsbc.com.lb.
 hsonline.com.lb.
 hst.com.lb.
