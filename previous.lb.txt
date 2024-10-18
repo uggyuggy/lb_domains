@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 16Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 17Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -456,7 +456,6 @@ by-m.com.lb.
 byblosbank.com.lb.
 byblosbankcampaigns.com.lb.
 byblosinstitute.edu.lb.
-byblospriority.com.lb.
 byrootsgourmet.com.lb.
 byrootsgourmet.net.lb.
 ca.com.lb.
