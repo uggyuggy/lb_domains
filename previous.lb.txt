@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 17Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 18Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -601,7 +601,6 @@ cloud.com.lb.
 cloudgate.com.lb.
 cloudkitchens.com.lb.
 cloudsp.net.lb.
-clu.gov.lb.
 clubmed.com.lb.
 clw.edu.lb.
 cma.gov.lb.
@@ -2067,7 +2066,6 @@ publicschools.edu.lb.
 pullbear.com.lb.
 puressentiel.com.lb.
 pwp.com.lb.
-qabas.org.lb.
 qatarairways.com.lb.
 qbic.com.lb.
 qemam.edu.lb.
@@ -2610,6 +2608,7 @@ virtualoffices.com.lb.
 visp.net.lb.
 visuals.com.lb.
 vitabiotics.com.lb.
+vitalbaby.com.lb.
 vivero.com.lb.
 vivre.com.lb.
 voguecafe.com.lb.
