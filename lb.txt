@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 22Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 23Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -502,6 +502,7 @@ cci-fed.org.lb.
 cci-me.com.lb.
 ccias.org.lb.
 cciat.org.lb.
+cciaz-jobportal.org.lb.
 cciaz.org.lb.
 ccib.org.lb.
 ccj.edu.lb.
@@ -513,6 +514,7 @@ cdl.com.lb.
 cdll.org.lb.
 cdlog.com.lb.
 cdn.com.lb.
+cdr.gov.lb.
 cec.com.lb.
 cec.edu.lb.
 cedarexecutive.com.lb.
@@ -781,7 +783,6 @@ dot.com.lb.
 dq.com.lb.
 dreibalawsat.gov.lb.
 drive.com.lb.
-drsformula.com.lb.
 drumstick.com.lb.
 druze-orphanage.org.lb.
 druzecourts.gov.lb.
@@ -1130,7 +1131,6 @@ holdal.com.lb.
 holidayhome.com.lb.
 hollisterco.com.lb.
 hollywoodmagic.com.lb.
-hollywoodstyle.com.lb.
 home.com.lb.
 homeandmore.com.lb.
 homedeco.com.lb.
@@ -1214,7 +1214,6 @@ inboundhorizons.com.lb.
 incentivetravel.com.lb.
 inco.com.lb.
 incognito.com.lb.
-indigo.com.lb.
 inditex.com.lb.
 industry.gov.lb.
 infinitepower.com.lb.
@@ -2016,6 +2015,7 @@ pmt.com.lb.
 pneumatico.com.lb.
 polyglot.edu.lb.
 polymark.com.lb.
+pomedia.com.lb.
 potterybarn.com.lb.
 potterybarnkids.com.lb.
 powercell.com.lb.

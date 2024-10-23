@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 22Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -513,7 +513,6 @@ cdl.com.lb.
 cdll.org.lb.
 cdlog.com.lb.
 cdn.com.lb.
-cdr.gov.lb.
 cec.com.lb.
 cec.edu.lb.
 cedarexecutive.com.lb.
