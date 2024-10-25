@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 23Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 24Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1344,6 +1344,7 @@ kanara.com.lb.
 kanz.com.lb.
 karaki.com.lb.
 karseell.com.lb.
+kasrelhelou.com.lb.
 kassatlychtaura.com.lb.
 kavak.com.lb.
 kay.com.lb.

@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 24Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 25Oct2024 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -173,6 +173,7 @@ americanexpress.com.lb.
 amg.com.lb.
 amhabre.com.lb.
 amik.com.lb.
+amiliehtechnical.edu.lb.
 amjad.edu.lb.
 amlieh.edu.lb.
 ampligame.com.lb.
@@ -477,6 +478,7 @@ caretek.com.lb.
 cargo.com.lb.
 caritas.org.lb.
 caritasmigrant.org.lb.
+carmate.com.lb.
 carmelsaintjoseph.edu.lb.
 caroll.com.lb.
 carpoint.com.lb.
@@ -915,6 +917,7 @@ fai.org.lb.
 fantasia.com.lb.
 fantoni-lebanon.com.lb.
 farahnet.net.lb.
+farizonauto.com.lb.
 fashionism.com.lb.
 fasttrack.com.lb.
 fasttravel.com.lb.
@@ -1870,7 +1873,6 @@ nicobel.com.lb.
 nike.com.lb.
 nikon.com.lb.
 nimm2.com.lb.
-ninelife.com.lb.
 nit.com.lb.
 nna-leb.gov.lb.
 nokia.com.lb.
