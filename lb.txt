@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 26Oct2024 02:26 UTC
+# .lb domain names extracted from nameservers on 27Oct2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -584,7 +584,6 @@ citycentre.com.lb.
 citycentrebeirut.com.lb.
 citycentrelebanon.com.lb.
 citycentremallbeirut.com.lb.
-cityfone.com.lb.
 citykart.com.lb.
 citymall.com.lb.
 cityu.edu.lb.
@@ -2536,7 +2535,6 @@ uac.org.lb.
 ubmc.edu.lb.
 ubuy.com.lb.
 uca.com.lb.
-uccm.com.lb.
 uds.com.lb.
 ufa.com.lb.
 ufeed.org.lb.
