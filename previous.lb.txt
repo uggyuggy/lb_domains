@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 28Oct2024 03:26 UTC
+# .lb domain names extracted from nameservers on 29Oct2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -77,6 +77,7 @@ airfrance.com.lb.
 airwaysaviation.com.lb.
 ais-d.edu.lb.
 ais.edu.lb.
+aitoauto.com.lb.
 ajaltoun.gov.lb.
 ajial.org.lb.
 ajyalschool.edu.lb.
@@ -303,7 +304,6 @@ bankmedloyalty.com.lb.
 bankmedyouthprogram.com.lb.
 bankofbaghdad.com.lb.
 bankofbeirut.com.lb.
-banqaudi.com.lb.
 banque-habitat.com.lb.
 banqueduliban.gov.lb.
 barakatchalhoub.com.lb.
@@ -2535,6 +2535,7 @@ uac.org.lb.
 ubmc.edu.lb.
 ubuy.com.lb.
 uca.com.lb.
+uccm.com.lb.
 uds.com.lb.
 ufa.com.lb.
 ufeed.org.lb.
