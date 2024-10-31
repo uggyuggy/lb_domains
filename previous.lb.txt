@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29Oct2024 03:26 UTC
+# .lb domain names extracted from nameservers on 30Oct2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2389,7 +2389,6 @@ superdry.com.lb.
 supervalue.com.lb.
 surfaces.com.lb.
 swarovski.com.lb.
-sweatybetty.com.lb.
 sweetearth.com.lb.
 swi.org.lb.
 switch.net.lb.
@@ -2560,6 +2559,7 @@ unimec.com.lb.
 unipharm.com.lb.
 unitech.com.lb.
 universalcollege.edu.lb.
+universalschool.edu.lb.
 uob.edu.lb.
 uobmc.edu.lb.
 uotm.gov.lb.
