@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 06Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2251,6 +2251,7 @@ sgh.com.lb.
 sghl.com.lb.
 sgmc.com.lb.
 sgs.com.lb.
+sgs.edu.lb.
 sgub.edu.lb.
 shaheed.com.lb.
 shakespeareans.com.lb.
