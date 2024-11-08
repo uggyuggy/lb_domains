@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 07Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 08Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1094,6 +1094,7 @@ hallab1881cafe.com.lb.
 hallabcafe.com.lb.
 hammana.gov.lb.
 hampshireacademy.edu.lb.
+handasahgroup.com.lb.
 hariri3.edu.lb.
 hariribahaa.edu.lb.
 hasbayamunicipality.gov.lb.
@@ -2319,6 +2320,8 @@ softmanagement.com.lb.
 softmind.com.lb.
 softwaredesign.com.lb.
 sohof.org.lb.
+solax.com.lb.
+solaxpower.com.lb.
 soldejaneiro.com.lb.
 solea.com.lb.
 solemar.com.lb.
@@ -2460,6 +2463,7 @@ tes.edu.lb.
 teska.com.lb.
 tetracom.com.lb.
 tetrapak.com.lb.
+texaschicken.com.lb.
 tgf.com.lb.
 tgifridays.com.lb.
 the-lfa.com.lb.
@@ -2605,6 +2609,7 @@ villadada.com.lb.
 villeroy-boch.com.lb.
 villeroyandboch.com.lb.
 villeroyboch.com.lb.
+virbac.com.lb.
 virginmegastore.com.lb.
 virginmobile.com.lb.
 virginradio.com.lb.
