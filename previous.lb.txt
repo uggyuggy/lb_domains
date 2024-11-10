@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 08Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 09Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -850,6 +850,7 @@ em.com.lb.
 emakina.com.lb.
 emall.com.lb.
 embassyfreight.com.lb.
+embassykw.gov.lb.
 emca.com.lb.
 emenu.com.lb.
 emf.com.lb.
@@ -2006,6 +2007,7 @@ pixel.com.lb.
 pixeldigital.com.lb.
 pixelmob.com.lb.
 plasticom.com.lb.
+platza.com.lb.
 playmed.com.lb.
 playone.com.lb.
 plg.com.lb.
