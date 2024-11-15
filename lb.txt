@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 14Nov2024 03:25 UTC
+# .lb domain names extracted from nameservers on 15Nov2024 03:32 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -951,6 +951,7 @@ gfs.com.lb.
 ghadafdal.edu.lb.
 ghalboun.gov.lb.
 ghobeiry.gov.lb.
+ghte.com.lb.
 gifco.com.lb.
 gig.com.lb.
 gigiclozeau.com.lb.
