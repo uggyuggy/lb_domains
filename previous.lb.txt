@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 19Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 20Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -99,6 +99,7 @@ albaraka.com.lb.
 albayanschools.edu.lb.
 albohsali.com.lb.
 alc.edu.lb.
+alcarmelia-kobayat.edu.lb.
 alcarmelia.edu.lb.
 alcs.com.lb.
 aldoshoes.com.lb.

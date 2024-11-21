@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 20Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 21Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1927,6 +1927,7 @@ omnipap.com.lb.
 omnipharma.com.lb.
 omsar.gov.lb.
 omt.com.lb.
+omtpay.com.lb.
 once.com.lb.
 oneworld.com.lb.
 oneworldip.com.lb.
