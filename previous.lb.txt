@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 22Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -655,6 +655,7 @@ contractor.com.lb.
 contractors.com.lb.
 copharma.com.lb.
 copytech.com.lb.
+cordoba.com.lb.
 cortbawihospital.com.lb.
 corumgroup.com.lb.
 coserv.com.lb.
@@ -1660,6 +1661,7 @@ medgm.com.lb.
 medgulf.com.lb.
 medi-liban.com.lb.
 mediacube.com.lb.
+mediadoc.com.lb.
 mediasell.com.lb.
 medicap.com.lb.
 medilab.com.lb.
