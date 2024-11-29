@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 27Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 28Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2358,6 +2358,7 @@ spc.com.lb.
 specom.com.lb.
 spica.com.lb.
 spm.com.lb.
+sportsdirect.com.lb.
 sportstown.com.lb.
 springcommunity.com.lb.
 srhuh.org.lb.
