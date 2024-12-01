@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29Nov2024 03:26 UTC
+# .lb domain names extracted from nameservers on 30Nov2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -702,6 +702,7 @@ curlybrackets.com.lb.
 customs.gov.lb.
 cyberia.net.lb.
 cybertech.com.lb.
+dahdah.com.lb.
 dahdahdimensions.com.lb.
 dahiehmunicipalities.gov.lb.
 dailystar.com.lb.
