@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 01Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 02Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -172,7 +172,6 @@ amel.org.lb.
 amer.com.lb.
 americaneagle.com.lb.
 americanexpress.com.lb.
-amg.com.lb.
 amhabre.com.lb.
 amik.com.lb.
 amiliehtechnical.edu.lb.
@@ -736,7 +735,6 @@ delifrance.com.lb.
 delivrande.edu.lb.
 delsey.com.lb.
 delta.com.lb.
-dentalcare.com.lb.
 dentalcollege.edu.lb.
 dentdelait.com.lb.
 depechemode.com.lb.
