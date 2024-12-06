@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 06Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -785,13 +785,13 @@ domtech.com.lb.
 donboscotechnique.edu.lb.
 dot.com.lb.
 dq.com.lb.
-dreibalawsat.gov.lb.
 drive.com.lb.
 drumstick.com.lb.
 druze-orphanage.org.lb.
 druzecourts.gov.lb.
 dsanddurga.com.lb.
 dsb.edu.lb.
+dshop.com.lb.
 dsquare.com.lb.
 dubizzle.com.lb.
 dunes.com.lb.
@@ -2253,7 +2253,6 @@ sevenplast.com.lb.
 sfm.edu.lb.
 sfs.com.lb.
 sgbl.com.lb.
-sget.com.lb.
 sgh.com.lb.
 sghl.com.lb.
 sgmc.com.lb.
@@ -2411,7 +2410,6 @@ synergy.com.lb.
 syscom.com.lb.
 syslink.com.lb.
 syslinknetworks.com.lb.
-systemco.com.lb.
 t-net.com.lb.
 taakhi.com.lb.
 tabarja-kfaryassine.gov.lb.
@@ -2638,6 +2636,7 @@ waves.net.lb.
 we-group.com.lb.
 weber.com.lb.
 website.com.lb.
+webvue.com.lb.
 wedge.com.lb.
 wee-pay.com.lb.
 weepay.com.lb.

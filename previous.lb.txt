@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 04Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 05Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -23,6 +23,7 @@ abl.org.lb.
 abohsali.com.lb.
 abslimited.com.lb.
 acal.org.lb.
+access.edu.lb.
 accesscore.com.lb.
 accuratefx.com.lb.
 acemco.com.lb.
@@ -693,7 +694,6 @@ csp.edu.lb.
 cssrd.org.lb.
 cst.com.lb.
 ctctco.com.lb.
-ctms.com.lb.
 cts.com.lb.
 culligan.com.lb.
 culture.gov.lb.
