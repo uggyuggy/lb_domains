@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 06Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 07Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -242,7 +242,6 @@ asp.com.lb.
 assirat.com.lb.
 assiyana.com.lb.
 assurex.com.lb.
-atco.com.lb.
 atfalouna.gov.lb.
 atg.com.lb.
 ati.com.lb.
@@ -2253,6 +2252,7 @@ sevenplast.com.lb.
 sfm.edu.lb.
 sfs.com.lb.
 sgbl.com.lb.
+sget.com.lb.
 sgh.com.lb.
 sghl.com.lb.
 sgmc.com.lb.
