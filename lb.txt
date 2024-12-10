@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 09Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 10Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1714,7 +1714,6 @@ ministryinfo.gov.lb.
 miradry.com.lb.
 mirsat.com.lb.
 misa.com.lb.
-mitas.edu.lb.
 mits.com.lb.
 mixfm.com.lb.
 mleeta.org.lb.
@@ -2220,6 +2219,7 @@ sclub.com.lb.
 scotwork.com.lb.
 scrapers.com.lb.
 screens.com.lb.
+scs.edu.lb.
 scsl.org.lb.
 sd.com.lb.
 seacargo.com.lb.
@@ -2407,7 +2407,6 @@ sync.com.lb.
 syndicateofhospitals.org.lb.
 synergy.com.lb.
 syscom.com.lb.
-syslink.com.lb.
 syslinknetworks.com.lb.
 t-net.com.lb.
 taakhi.com.lb.
