@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 10Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 11Dec2024 03:32 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2640,6 +2640,7 @@ wee-pay.com.lb.
 weepay.com.lb.
 weepayme.com.lb.
 weepaywallet.com.lb.
+welfare.com.lb.
 wellhost.com.lb.
 wellness.com.lb.
 wellspring.edu.lb.
