@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 11Dec2024 03:32 UTC
+# .lb domain names extracted from nameservers on 12Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2445,6 +2445,7 @@ techrise.com.lb.
 techtrade.com.lb.
 techzone.com.lb.
 teknowgroup.com.lb.
+tel.com.lb.
 teleliban.com.lb.
 teleprojects.com.lb.
 teletaxi.com.lb.
