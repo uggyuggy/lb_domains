@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 13Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 14Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -125,7 +125,6 @@ alkawthar.edu.lb.
 alkazemschool.edu.lb.
 alkhanadeq.org.lb.
 allanticovinaio.com.lb.
-allcj.edu.lb.
 allcs.edu.lb.
 allianz-sf.com.lb.
 allianz.com.lb.
@@ -647,7 +646,6 @@ connect.net.lb.
 connoisseur.com.lb.
 conseil.com.lb.
 conservatory.gov.lb.
-constructa.com.lb.
 construction.com.lb.
 contracting.com.lb.
 contractor.com.lb.
@@ -1395,6 +1393,7 @@ lakridsbybulow.com.lb.
 lambretta.com.lb.
 lamc.org.lb.
 lamiedoree.com.lb.
+lamisil.com.lb.
 lams.org.lb.
 lancaster.com.lb.
 lancome.com.lb.
