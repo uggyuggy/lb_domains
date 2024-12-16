@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 15Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 16Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -644,7 +644,6 @@ confirm.com.lb.
 congfcl.org.lb.
 connect.net.lb.
 connoisseur.com.lb.
-conseil.com.lb.
 conservatory.gov.lb.
 construction.com.lb.
 contracting.com.lb.
@@ -1369,6 +1368,7 @@ kite.com.lb.
 klevr.com.lb.
 kmc.com.lb.
 knoops.com.lb.
+kogowa.com.lb.
 kore.com.lb.
 kouyoumji.com.lb.
 kpmg.com.lb.
