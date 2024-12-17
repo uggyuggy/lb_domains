@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 16Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 17Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1024,7 +1024,6 @@ georgisabounjian.com.lb.
 geovision.com.lb.
 getdsl.net.lb.
 gfo.com.lb.
-gfs.com.lb.
 ghadafdal.edu.lb.
 ghalboun.gov.lb.
 ghirass.org.lb.
