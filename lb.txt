@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 17Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 18Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -644,6 +644,7 @@ confirm.com.lb.
 congfcl.org.lb.
 connect.net.lb.
 connoisseur.com.lb.
+conseil.com.lb.
 conservatory.gov.lb.
 construction.com.lb.
 contracting.com.lb.
@@ -1021,7 +1022,6 @@ genial.com.lb.
 genimex.com.lb.
 gentleman.com.lb.
 georgisabounjian.com.lb.
-geovision.com.lb.
 getdsl.net.lb.
 gfo.com.lb.
 ghadafdal.edu.lb.
@@ -2161,7 +2161,6 @@ rosaire.edu.lb.
 roum.gov.lb.
 round1.com.lb.
 roundone.com.lb.
-rsteam.com.lb.
 ruplak.com.lb.
 rymco.com.lb.
 sa.edu.lb.
@@ -2424,7 +2423,6 @@ tannourinemunicipality.gov.lb.
 tap.com.lb.
 tarbaweya.org.lb.
 tarchich.gov.lb.
-target.com.lb.
 tarmeem.org.lb.
 tasmeem.com.lb.
 tayyebat.com.lb.
