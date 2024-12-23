@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 22Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 23Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2427,7 +2427,6 @@ tarmeem.org.lb.
 tasmeem.com.lb.
 tayyebat.com.lb.
 tbsteel.com.lb.
-tcl.com.lb.
 teachachild.com.lb.
 teachachild.net.lb.
 teachachild.org.lb.
@@ -2555,7 +2554,6 @@ ump.com.lb.
 undp.org.lb.
 unews.com.lb.
 uni-eng.com.lb.
-unico.com.lb.
 unifarco.com.lb.
 unifert.com.lb.
 unileb.com.lb.
