@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 23Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 24Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -465,6 +465,7 @@ ca.com.lb.
 caa.gov.lb.
 cablevision.com.lb.
 cadmous.edu.lb.
+cadrans.com.lb.
 callitspring.com.lb.
 camicissima.com.lb.
 camzyos.com.lb.
@@ -606,6 +607,7 @@ cloudgate.com.lb.
 cloudkitchens.com.lb.
 cloudsp.net.lb.
 clubmed.com.lb.
+clw.edu.lb.
 cma.gov.lb.
 cmc.com.lb.
 cmds.com.lb.
@@ -1124,7 +1126,6 @@ hireme.com.lb.
 his.edu.lb.
 hispeed.net.lb.
 hkcc.org.lb.
-hkpetroleum.com.lb.
 hms.com.lb.
 holcim.com.lb.
 holdal.com.lb.
