@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 25Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 26Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -261,7 +261,6 @@ aujan.com.lb.
 aul.edu.lb.
 aulfg2.org.lb.
 aunohr.edu.lb.
-auroragroup.com.lb.
 aus.edu.lb.
 aust.edu.lb.
 autobio.com.lb.
@@ -2271,7 +2270,6 @@ silverstar.com.lb.
 simpli.com.lb.
 simplycook.com.lb.
 sinelfil.gov.lb.
-sintrade.com.lb.
 siom.com.lb.
 sistersofthecross.org.lb.
 sixt.com.lb.
@@ -2286,6 +2284,7 @@ skynet.com.lb.
 skyteam.com.lb.
 skytrofa.com.lb.
 skywell.com.lb.
+skyworthev.com.lb.
 sla.com.lb.
 slb.com.lb.
 slcb.com.lb.

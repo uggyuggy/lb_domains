@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 26Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 27Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -232,6 +232,7 @@ army.gov.lb.
 arope.com.lb.
 artmetal.com.lb.
 artpromotion.com.lb.
+as.com.lb.
 asat.edu.lb.
 ascoma.com.lb.
 asg.edu.lb.
@@ -2160,6 +2161,7 @@ rosaire.edu.lb.
 roum.gov.lb.
 round1.com.lb.
 roundone.com.lb.
+rsteam.com.lb.
 ruplak.com.lb.
 rymco.com.lb.
 sa.edu.lb.
