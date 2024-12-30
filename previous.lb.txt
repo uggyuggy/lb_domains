@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 28Dec2024 03:26 UTC
+# .lb domain names extracted from nameservers on 29Dec2024 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1706,7 +1706,6 @@ mimosa.com.lb.
 mindit.com.lb.
 mindthegap.com.lb.
 minijes.gov.lb.
-minime.com.lb.
 ministryinfo.gov.lb.
 miradry.com.lb.
 mirsat.com.lb.
