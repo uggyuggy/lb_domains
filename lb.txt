@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 01Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 02Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -895,7 +895,6 @@ esthederm.com.lb.
 etravel.com.lb.
 ets.com.lb.
 etss-aley.edu.lb.
-etvoila.com.lb.
 eurisko.com.lb.
 europcar.com.lb.
 everyoung.com.lb.
