@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 06Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1132,7 +1132,6 @@ holdal.com.lb.
 holidayhome.com.lb.
 hollisterco.com.lb.
 hollywoodmagic.com.lb.
-home.com.lb.
 homeandmore.com.lb.
 homedeco.com.lb.
 homeofthewhopper.com.lb.
@@ -2274,7 +2273,6 @@ sinelfil.gov.lb.
 sintrade.com.lb.
 siom.com.lb.
 sistersofthecross.org.lb.
-sixt.com.lb.
 sjabeirut.edu.lb.
 sjamaad.edu.lb.
 sjasaida.edu.lb.
