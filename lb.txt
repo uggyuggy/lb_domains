@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 09Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 10Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -946,6 +946,7 @@ flmd.org.lb.
 fluid.com.lb.
 fluimucil.com.lb.
 flyhigh.com.lb.
+flyiaa.com.lb.
 fmm.edu.lb.
 fmpgroup.com.lb.
 fnac.com.lb.
@@ -2266,6 +2267,7 @@ sic.gov.lb.
 sicomo.com.lb.
 sidaco.com.lb.
 sidonia.com.lb.
+sigma.com.lb.
 silverstar.com.lb.
 simpli.com.lb.
 simplycook.com.lb.
