@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 10Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 11Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1380,6 +1380,7 @@ lab88.com.lb.
 labantheater.org.lb.
 labor.gov.lb.
 labtest.com.lb.
+lacoloniaperfumes.com.lb.
 lacoste.com.lb.
 lacpa.org.lb.
 lade.org.lb.
@@ -1716,6 +1717,7 @@ mleeta.org.lb.
 mlg.gov.lb.
 mlh.com.lb.
 mlx.com.lb.
+mmcare.com.lb.
 mmgroup.com.lb.
 mmir.org.lb.
 mnf.com.lb.
@@ -2078,7 +2080,6 @@ quantum.com.lb.
 quantumgroup.com.lb.
 quartos.org.lb.
 rabab.org.lb.
-rabel.com.lb.
 rabieh.gov.lb.
 radioliban.gov.lb.
 radiomaria.org.lb.
