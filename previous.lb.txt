@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 12Jan2025 03:25 UTC
+# .lb domain names extracted from nameservers on 13Jan2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1106,7 +1106,6 @@ hbc.edu.lb.
 hcu.edu.lb.
 healthgate.com.lb.
 heidelberg.com.lb.
-heineken.com.lb.
 help.org.lb.
 herbalife.com.lb.
 herearethefacts.com.lb.
@@ -1736,7 +1735,6 @@ moim.gov.lb.
 mojo.com.lb.
 mokhtar-fund.gov.lb.
 mol.com.lb.
-money.com.lb.
 moneygram.com.lb.
 monin.com.lb.
 monoprix.com.lb.
