@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 20Jan2025 03:25 UTC
+# .lb domain names extracted from nameservers on 21Jan2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -612,7 +612,6 @@ clw.edu.lb.
 cma.gov.lb.
 cmc.com.lb.
 cmds.com.lb.
-cmj.gov.lb.
 cml.org.lb.
 cmsm.org.lb.
 cndl.edu.lb.
@@ -767,6 +766,7 @@ distinet.com.lb.
 districts.com.lb.
 djemaran.edu.lb.
 dm.net.lb.
+dmc.com.lb.
 dmi.gov.lb.
 dnata.com.lb.
 doctory.com.lb.
@@ -2002,6 +2002,7 @@ pixel.com.lb.
 pixeldigital.com.lb.
 pixelmob.com.lb.
 plasticom.com.lb.
+platinumpace.com.lb.
 platza.com.lb.
 playmed.com.lb.
 playone.com.lb.
@@ -2648,6 +2649,8 @@ werthersoriginal.com.lb.
 westelm.com.lb.
 whatsapp.com.lb.
 wheego.com.lb.
+wheels.com.lb.
+wheelsrentacar.com.lb.
 whistler.com.lb.
 whiteandmore.com.lb.
 whopper.com.lb.
