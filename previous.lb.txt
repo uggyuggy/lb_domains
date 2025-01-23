@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Jan2025 03:25 UTC
+# .lb domain names extracted from nameservers on 22Jan2025 03:27 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1355,9 +1355,11 @@ kff.com.lb.
 khencharajouar.gov.lb.
 khoubourat.org.lb.
 khouryhome.com.lb.
+kiabi.com.lb.
 kidsaround.com.lb.
 kiehls.com.lb.
 kihs.edu.lb.
+kikocosmetics.com.lb.
 kingfood.com.lb.
 kinto-mobility.com.lb.
 kinto-mobility.org.lb.
