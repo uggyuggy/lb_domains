@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 23Jan2025 03:25 UTC
+# .lb domain names extracted from nameservers on 24Jan2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -744,6 +744,7 @@ dgca.gov.lb.
 dgcs.gov.lb.
 dglac.gov.lb.
 dgo.gov.lb.
+dgu.gov.lb.
 dhas.com.lb.
 dhc.com.lb.
 dhgroup.com.lb.
@@ -1443,6 +1444,7 @@ lebanesearmy.gov.lb.
 lebaneseexportplatform.com.lb.
 lebaneseislamicbank.com.lb.
 lebanesevision.com.lb.
+lebanesewriters.org.lb.
 lebanon.com.lb.
 lebanoncitycentre.com.lb.
 lebanonenergies.gov.lb.
@@ -1884,7 +1886,6 @@ noula.com.lb.
 nour.com.lb.
 noura.com.lb.
 novartis.com.lb.
-novo.com.lb.
 novonordisk.com.lb.
 npc.edu.lb.
 nptp.gov.lb.
@@ -2312,6 +2313,7 @@ sna-sf.com.lb.
 sna.com.lb.
 snc.edu.lb.
 soal.com.lb.
+soapinc.com.lb.
 socam.com.lb.
 socialaffairs.gov.lb.
 socks.com.lb.
@@ -2397,6 +2399,7 @@ suncityresort.com.lb.
 supeco.com.lb.
 superdry.com.lb.
 supervalue.com.lb.
+surf.com.lb.
 surfaces.com.lb.
 swarovski.com.lb.
 sweetearth.com.lb.
@@ -2629,6 +2632,7 @@ voguecafe.com.lb.
 volkswagen.com.lb.
 vte.gov.lb.
 vycrinsa.com.lb.
+waadweltizam.org.lb.
 wallbox.com.lb.
 wata.com.lb.
 watermaster.com.lb.
