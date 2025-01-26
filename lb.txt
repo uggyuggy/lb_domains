@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 25Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 26Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1886,6 +1886,7 @@ noula.com.lb.
 nour.com.lb.
 noura.com.lb.
 novartis.com.lb.
+novo.com.lb.
 novonordisk.com.lb.
 npc.edu.lb.
 nptp.gov.lb.
