@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 28Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 29Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -78,6 +78,7 @@ airfrance.com.lb.
 airwaysaviation.com.lb.
 ais-d.edu.lb.
 ais.edu.lb.
+aiteck.com.lb.
 aitoauto.com.lb.
 ajaltoun.gov.lb.
 ajial.org.lb.
@@ -404,6 +405,7 @@ blom.com.lb.
 blominvest.com.lb.
 blominvestbank.com.lb.
 bloominbox.com.lb.
+blue.com.lb.
 bluemoon.com.lb.
 bluetech.com.lb.
 bm.com.lb.
@@ -523,7 +525,6 @@ cec.com.lb.
 cec.edu.lb.
 cedarexecutive.com.lb.
 cedarfoods.com.lb.
-cedars.edu.lb.
 cedim.com.lb.
 cedrine.com.lb.
 cedrusarak.com.lb.
@@ -536,7 +537,6 @@ cerave.com.lb.
 ceres.com.lb.
 cernerhealth.com.lb.
 cersa.gov.lb.
-ces.gov.lb.
 cet.com.lb.
 cezanne.com.lb.
 cf.com.lb.
@@ -795,6 +795,7 @@ dshop.com.lb.
 dsquare.com.lb.
 dubizzle.com.lb.
 dunes.com.lb.
+dyson.com.lb.
 e-121.com.lb.
 eaglenet.net.lb.
 earthtechnologies.com.lb.
