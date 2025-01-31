@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29Jan2025 03:26 UTC
+# .lb domain names extracted from nameservers on 30Jan2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -363,6 +363,7 @@ beitmery.gov.lb.
 bekai.com.lb.
 bekaifoods.com.lb.
 bekaplast.com.lb.
+bellvie.com.lb.
 benchmark.com.lb.
 benta.com.lb.
 bershka.com.lb.
@@ -1205,7 +1206,6 @@ imatel.com.lb.
 iml.edu.lb.
 immoplus.com.lb.
 immotors.com.lb.
-immovate.com.lb.
 impact.gov.lb.
 impactbbdo.com.lb.
 impactproximity.com.lb.
@@ -1771,7 +1771,6 @@ mproperties.com.lb.
 mps.com.lb.
 mpt.gov.lb.
 msa-abra.edu.lb.
-msa-hadat.edu.lb.
 msccroisieres.com.lb.
 msccruises.com.lb.
 msclebanon.com.lb.
