@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 13Feb2025 03:27 UTC
+# .lb domain names extracted from nameservers on 14Feb2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -338,7 +338,10 @@ bbac.com.lb.
 bbcorp.com.lb.
 bbs.edu.lb.
 bcaif.com.lb.
+bccl.com.lb.
 bccl.gov.lb.
+bccl.net.lb.
+bccl.org.lb.
 bcdtravel.com.lb.
 bchara.com.lb.
 bdb.com.lb.
