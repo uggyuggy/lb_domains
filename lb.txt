@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 16Feb2025 03:26 UTC
+# .lb domain names extracted from nameservers on 17Feb2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2172,7 +2172,6 @@ rmf.org.lb.
 rmg.com.lb.
 rolex.com.lb.
 romex.com.lb.
-ronin.com.lb.
 roomours.com.lb.
 roomoursonline.com.lb.
 rosaire.edu.lb.
