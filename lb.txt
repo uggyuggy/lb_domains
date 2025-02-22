@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21Feb2025 03:26 UTC
+# .lb domain names extracted from nameservers on 22Feb2025 03:27 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2319,6 +2319,7 @@ sliver.com.lb.
 sloop.com.lb.
 slwe.gov.lb.
 smart.com.lb.
+smartcollege.edu.lb.
 smartdsl.net.lb.
 smartech.com.lb.
 smc.com.lb.
