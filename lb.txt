@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 03Mar2025 03:25 UTC
+# .lb domain names extracted from nameservers on 04Mar2025 03:36 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1036,7 +1036,6 @@ general-directorate-of-administration.gov.lb.
 general-security.gov.lb.
 genial.com.lb.
 genimex.com.lb.
-gentleman.com.lb.
 georgisabounjian.com.lb.
 getdsl.net.lb.
 gfo.com.lb.
@@ -2691,6 +2690,7 @@ williams-sonoma.com.lb.
 willistowerswatson.com.lb.
 winesoflebanon.com.lb.
 wingsoflebanon.com.lb.
+winline.com.lb.
 wise.net.lb.
 woodpecker.com.lb.
 woosh.com.lb.
