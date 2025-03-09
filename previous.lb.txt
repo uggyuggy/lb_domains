@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 07Mar2025 03:26 UTC
+# .lb domain names extracted from nameservers on 08Mar2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2735,6 +2735,7 @@ zde.com.lb.
 zeal.com.lb.
 zedmg.com.lb.
 zeekr.com.lb.
+zeesweb.com.lb.
 zei.edu.lb.
 zgharta.gov.lb.
 zhumc.org.lb.
