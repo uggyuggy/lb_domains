@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 11Mar2025 03:26 UTC
+# .lb domain names extracted from nameservers on 12Mar2025 03:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -617,6 +617,7 @@ cloud.com.lb.
 cloudgate.com.lb.
 cloudkitchens.com.lb.
 cloudsp.net.lb.
+clu.gov.lb.
 clubmed.com.lb.
 clw.edu.lb.
 cma.gov.lb.
