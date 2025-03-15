@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 13Mar2025 03:27 UTC
+# .lb domain names extracted from nameservers on 14Mar2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2047,6 +2047,8 @@ powergroup.com.lb.
 powermix.com.lb.
 powertech.com.lb.
 ppa.gov.lb.
+ppc.com.lb.
+ppcgroup.com.lb.
 premiertalent.com.lb.
 presidency.gov.lb.
 pressmedia.com.lb.

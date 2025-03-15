@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 14Mar2025 03:26 UTC
+# .lb domain names extracted from nameservers on 15Mar2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2133,6 +2133,7 @@ realtor.com.lb.
 realtors.com.lb.
 realty.com.lb.
 rec.edu.lb.
+redal.org.lb.
 redbull.com.lb.
 redcross.edu.lb.
 redcross.org.lb.
