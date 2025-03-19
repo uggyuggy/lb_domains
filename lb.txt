@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 18Mar2025 03:26 UTC
+# .lb domain names extracted from nameservers on 19Mar2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -558,6 +558,7 @@ champville.edu.lb.
 chaoui-group.com.lb.
 chaouigroup.com.lb.
 chaouiholding.com.lb.
+chapon.com.lb.
 charlottetilbury.com.lb.
 chateauka.com.lb.
 chateaumusar.com.lb.
@@ -716,6 +717,7 @@ dahiehmunicipalities.gov.lb.
 dailystar.com.lb.
 dairiday.com.lb.
 damart.com.lb.
+danacountryfoods.com.lb.
 dandy.com.lb.
 danico.com.lb.
 dar.com.lb.
@@ -2376,7 +2378,6 @@ sotyktuhcp.com.lb.
 souayjani.gov.lb.
 southlebanon.gov.lb.
 spar.com.lb.
-spartagiftshop.com.lb.
 spartan.com.lb.
 spazi.com.lb.
 spc.com.lb.
