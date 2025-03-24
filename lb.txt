@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 23Mar2025 03:25 UTC
+# .lb domain names extracted from nameservers on 24Mar2025 03:25 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1293,7 +1293,6 @@ laec-cnrs.gov.lb.
 lafenetre.com.lb.
 lak.edu.lb.
 lakridsbybulow.com.lb.
-lambretta.com.lb.
 lamiedoree.com.lb.
 lamisil.com.lb.
 lancaster.com.lb.
