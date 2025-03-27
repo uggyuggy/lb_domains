@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 26Mar2025 03:26 UTC
+# .lb domain names extracted from nameservers on 27Mar2025 03:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1379,6 +1379,7 @@ kidsaround.com.lb.
 kiehls.com.lb.
 kihs.edu.lb.
 kikocosmetics.com.lb.
+king-jouet.com.lb.
 kingfood.com.lb.
 kinto-mobility.com.lb.
 kinto-mobility.org.lb.
