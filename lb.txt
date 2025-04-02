@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 01Apr2025 02:26 UTC
+# .lb domain names extracted from nameservers on 02Apr2025 02:25 UTC
 3mplast.com.lb.
 3ppharma.com.lb.
 3w.com.lb.
@@ -1487,7 +1487,6 @@ marant-etoile.com.lb.
 marant.com.lb.
 marantetoile.com.lb.
 marbella.com.lb.
-marestate.com.lb.
 mariamhaidar.com.lb.
 maristesjbail.edu.lb.
 martiderm.com.lb.
