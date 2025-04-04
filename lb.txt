@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 03Apr2025 02:27 UTC
+# .lb domain names extracted from nameservers on 04Apr2025 02:27 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1526,7 +1526,6 @@ lit.edu.lb.
 litani.gov.lb.
 littlecaesars.com.lb.
 liu.edu.lb.
-livoltek.com.lb.
 liwan.com.lb.
 lkbc.org.lb.
 lme.com.lb.
@@ -2714,7 +2713,6 @@ wrf.org.lb.
 wtours.com.lb.
 wtwco.com.lb.
 wurth.com.lb.
-xev.com.lb.
 xglobalfx.com.lb.
 ximivogue.com.lb.
 xpeng.com.lb.
