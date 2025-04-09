@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 07Apr2025 02:26 UTC
+# .lb domain names extracted from nameservers on 08Apr2025 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -103,6 +103,7 @@ alba.edu.lb.
 albachaer.com.lb.
 albaraka.com.lb.
 albayanschools.edu.lb.
+albayeder.com.lb.
 albohsali.com.lb.
 alc.edu.lb.
 alcarmelia-kobayat.edu.lb.
@@ -2704,6 +2705,7 @@ wingsoflebanon.com.lb.
 winline.com.lb.
 wise.net.lb.
 woodpecker.com.lb.
+woodshapes.com.lb.
 woosh.com.lb.
 worldfood.com.lb.
 worldofjoy.org.lb.
