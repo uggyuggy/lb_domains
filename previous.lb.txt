@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 24Apr2025 02:26 UTC
+# .lb domain names extracted from nameservers on 25Apr2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1740,6 +1740,7 @@ mixfm.com.lb.
 mleeta.org.lb.
 mlg.gov.lb.
 mlh.com.lb.
+mlh.edu.lb.
 mlx.com.lb.
 mmcare.com.lb.
 mmdc.com.lb.
@@ -2312,7 +2313,6 @@ sintrade.com.lb.
 siom.com.lb.
 sistersofthecross.org.lb.
 sixt.com.lb.
-sjabeirut.edu.lb.
 sjamaad.edu.lb.
 sjs.edu.lb.
 skinceuticals.com.lb.
