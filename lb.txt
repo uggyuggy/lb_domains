@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 06May2025 02:26 UTC
+# .lb domain names extracted from nameservers on 07May2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -612,6 +612,7 @@ cla.com.lb.
 claseazul.com.lb.
 clauda.com.lb.
 claudie-pierlot.com.lb.
+claudie.com.lb.
 claudiepierlot.com.lb.
 cleantec.com.lb.
 clearcorrect.com.lb.
@@ -2319,7 +2320,9 @@ sintrade.com.lb.
 siom.com.lb.
 sistersofthecross.org.lb.
 sixt.com.lb.
+sjabeirut.edu.lb.
 sjamaad.edu.lb.
+sjasaida.edu.lb.
 sjs.edu.lb.
 skinceuticals.com.lb.
 skullcandy.com.lb.
