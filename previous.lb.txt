@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 12May2025 02:25 UTC
+# .lb domain names extracted from nameservers on 13May2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1709,7 +1709,6 @@ mesoestetic.com.lb.
 mess.com.lb.
 messika.com.lb.
 metacs.com.lb.
-metahype.com.lb.
 metallico.com.lb.
 metaquest.com.lb.
 meteo.gov.lb.
@@ -2488,6 +2487,7 @@ technicalgroup.com.lb.
 technoimport.com.lb.
 technoline.com.lb.
 technotouch.com.lb.
+techpunto.com.lb.
 techrise.com.lb.
 techtrade.com.lb.
 techzone.com.lb.

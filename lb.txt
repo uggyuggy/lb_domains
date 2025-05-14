@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 13May2025 02:25 UTC
+# .lb domain names extracted from nameservers on 14May2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -283,7 +283,6 @@ awtar.com.lb.
 axa-middleeast.com.lb.
 azadea.com.lb.
 azharalbekaa.org.lb.
-azminstitute.edu.lb.
 azmschool.edu.lb.
 azmuniversity.edu.lb.
 b-iu.edu.lb.
@@ -1767,6 +1766,7 @@ mojo.com.lb.
 mokhtar-fund.gov.lb.
 mol.com.lb.
 momaki.com.lb.
+money.com.lb.
 moneygram.com.lb.
 monin.com.lb.
 monoprix.com.lb.
