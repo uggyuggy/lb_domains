@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 14May2025 02:25 UTC
+# .lb domain names extracted from nameservers on 15May2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -80,6 +80,7 @@ airfrance.com.lb.
 airwaysaviation.com.lb.
 ais-d.edu.lb.
 ais.edu.lb.
+aitechsummit.gov.lb.
 aiteck.com.lb.
 aito.com.lb.
 aitoauto.com.lb.
@@ -1532,6 +1533,7 @@ littlecaesars.com.lb.
 liu.edu.lb.
 liwan.com.lb.
 lkbc.org.lb.
+lmc.com.lb.
 lme.com.lb.
 lnt.com.lb.
 logic.com.lb.
@@ -1593,7 +1595,6 @@ maalouf.com.lb.
 maaref.edu.lb.
 mabarrat.org.lb.
 macromed.com.lb.
-macrotronics.com.lb.
 mada.org.lb.
 madigroup.com.lb.
 maf.com.lb.
@@ -2456,6 +2457,7 @@ syscom.com.lb.
 syslinknetworks.com.lb.
 t-net.com.lb.
 taakhi.com.lb.
+tabadul.gov.lb.
 tabarja-kfaryassine.gov.lb.
 tag-domains.com.lb.
 tag.com.lb.
@@ -2511,6 +2513,7 @@ terraplay.com.lb.
 terravision.com.lb.
 tes.edu.lb.
 teseo.com.lb.
+teseoair.com.lb.
 teska.com.lb.
 tetracom.com.lb.
 tetrapak.com.lb.
