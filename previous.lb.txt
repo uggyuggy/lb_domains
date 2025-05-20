@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 18May2025 02:26 UTC
+# .lb domain names extracted from nameservers on 19May2025 02:25 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2178,7 +2178,6 @@ rewardsclub.com.lb.
 rfk.com.lb.
 rfs.edu.lb.
 rgh.com.lb.
-rhf.org.lb.
 rhhs.edu.lb.
 rhs.edu.lb.
 rhu.edu.lb.
