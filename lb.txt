@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 21May2025 02:26 UTC
+# .lb domain names extracted from nameservers on 22May2025 02:24 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -2736,6 +2736,7 @@ wtwco.com.lb.
 wurth.com.lb.
 xglobalfx.com.lb.
 ximivogue.com.lb.
+xnet.com.lb.
 xpeng.com.lb.
 xstream.net.lb.
 xtremelogistics.com.lb.
