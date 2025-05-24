@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 23May2025 02:23 UTC
+# .lb domain names extracted from nameservers on 24May2025 02:23 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -60,7 +60,6 @@ affd.org.lb.
 afh.com.lb.
 agbu.org.lb.
 agbuschools.edu.lb.
-agca.com.lb.
 agec.com.lb.
 aginet.com.lb.
 agip.com.lb.
@@ -1735,6 +1734,7 @@ michaelkors.com.lb.
 midclear.com.lb.
 midclearonline.com.lb.
 middleeast.com.lb.
+midlr.com.lb.
 midware.com.lb.
 mif.org.lb.
 mimosa.com.lb.
@@ -2056,7 +2056,6 @@ pluspoint.com.lb.
 pma.com.lb.
 pmandp.com.lb.
 pms.com.lb.
-pmt.com.lb.
 pneumatico.com.lb.
 polyglot.edu.lb.
 polymark.com.lb.
@@ -2469,14 +2468,12 @@ tabadul.gov.lb.
 tabarja-kfaryassine.gov.lb.
 tag-domains.com.lb.
 tag.com.lb.
-tagco.com.lb.
 tagi.com.lb.
 tago.com.lb.
 tagroup.com.lb.
 taha.com.lb.
 tajamo.org.lb.
 taklatrading.com.lb.
-talalabughazaleh.com.lb.
 talaya.com.lb.
 tanmia.com.lb.
 tannourinemunicipality.gov.lb.
