@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 26May2025 02:23 UTC
+# .lb domain names extracted from nameservers on 27May2025 02:23 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
