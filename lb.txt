@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 29May2025 02:24 UTC
+# .lb domain names extracted from nameservers on 30May2025 02:24 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -162,6 +162,7 @@ alpina.com.lb.
 alpinecars.com.lb.
 alqassam.org.lb.
 alrabih.com.lb.
+als.edu.lb.
 alsafanews.com.lb.
 alstom.com.lb.
 altai.com.lb.
@@ -580,6 +581,7 @@ chn.com.lb.
 christroi.org.lb.
 chroniccare.org.lb.
 chroniccarecenter.org.lb.
+ciatec.com.lb.
 cib.gov.lb.
 ciel.com.lb.
 ciholding.com.lb.
