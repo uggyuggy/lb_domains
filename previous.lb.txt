@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 30May2025 02:24 UTC
+# .lb domain names extracted from nameservers on 31May2025 02:23 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1950,6 +1950,7 @@ offbeat.org.lb.
 ogero.gov.lb.
 ogroup.org.lb.
 ogtl.org.lb.
+ohana.com.lb.
 ojamco.com.lb.
 oldnavy.com.lb.
 ole.com.lb.
@@ -2058,6 +2059,7 @@ pluspoint.com.lb.
 pma.com.lb.
 pmandp.com.lb.
 pms.com.lb.
+pmsmenu.com.lb.
 pneumatico.com.lb.
 polyglot.edu.lb.
 polymark.com.lb.
