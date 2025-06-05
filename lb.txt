@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 04Jun2025 02:24 UTC
+# .lb domain names extracted from nameservers on 05Jun2025 02:24 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -763,6 +763,7 @@ designedglass.com.lb.
 designer.com.lb.
 destination.com.lb.
 dfl.com.lb.
+dfoun.gov.lb.
 dgca.gov.lb.
 dgcs.gov.lb.
 dglac.gov.lb.
