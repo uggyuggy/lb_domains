@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 05Jun2025 02:24 UTC
+# .lb domain names extracted from nameservers on 06Jun2025 02:26 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -1397,6 +1397,7 @@ kinto-mobility.org.lb.
 kitchenaid.com.lb.
 kite.com.lb.
 klevr.com.lb.
+klynn.com.lb.
 kmc.com.lb.
 knoops.com.lb.
 kogowa.com.lb.
