@@ -1,4 +1,4 @@
-# .lb domain names extracted from nameservers on 09Jun2025 02:25 UTC
+# .lb domain names extracted from nameservers on 10Jun2025 02:24 UTC
 3mb.org.lb.
 3mplast.com.lb.
 3ppharma.com.lb.
@@ -911,7 +911,6 @@ esga.edu.lb.
 esgb.edu.lb.
 esgbl.com.lb.
 esl.com.lb.
-eslebanon.com.lb.
 esr.edu.lb.
 esrc.org.lb.
 essens.com.lb.
@@ -2489,7 +2488,6 @@ tarchich.gov.lb.
 target.com.lb.
 tarmeem.org.lb.
 task.com.lb.
-tasmeem.com.lb.
 tayyebat.com.lb.
 tbsteel.com.lb.
 teachachild.com.lb.
